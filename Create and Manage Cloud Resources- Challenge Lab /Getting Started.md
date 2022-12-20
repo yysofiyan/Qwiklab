@@ -6,7 +6,7 @@
 2. Creating a Kubernetes Service Cluster.
 3. Creating the Web Server Frontend.
 
-⭐️ [My Badge](https://https://www.cloudskillsboost.google/public_profiles/9b6803b0-ccf7-4348-8eb5-31b63b46d461/badges/3050001)
+⭐️ [My Badge](https://www.cloudskillsboost.google/public_profiles/9b6803b0-ccf7-4348-8eb5-31b63b46d461/badges/3050001)
 
 *`Task 1. Create a project jumphost instance
 `*
