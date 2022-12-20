@@ -1,6 +1,6 @@
 # GSP313: Create and Manage Cloud Resources
 
-##The challenge contains 3 required tasks
+## The challenge contains 3 required tasks
 
 1. Creating a Project Jumphost instance.
 2. Creating a Kubernetes Service Cluster.
